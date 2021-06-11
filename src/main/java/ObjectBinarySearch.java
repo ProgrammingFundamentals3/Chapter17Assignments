@@ -1,3 +1,4 @@
+// read the programming challenge 5 (Generic Binary Search)
 /**
    The ObjectBinarySearcher class provides a public static
    method for performing a binary search on an array of
