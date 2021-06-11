@@ -1,3 +1,4 @@
+// read the programming challenge 6 (Highest and Lowest Elements)
 /**
    HighLow class
 */
